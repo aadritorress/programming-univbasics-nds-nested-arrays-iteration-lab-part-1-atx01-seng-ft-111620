@@ -1,5 +1,13 @@
 def find_even_values(src)
-  
+  row_index = 0
+  while row_index < src.count do
+    element_index = 0
+    while element_index < src[row_index].count do
+      
+      
+      
+      
+      
 array_of_arrays = [
   [1,2,3],
   [4,5,6],
